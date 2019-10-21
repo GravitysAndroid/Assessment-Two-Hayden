@@ -8,6 +8,11 @@
     height: 900px;
 }
 
+.link{
+    color: blue !important;
+    text-decoration: underline;
+}
+
 .text {
     box-sizing: border-box;
     text-align: center;
