@@ -4,8 +4,8 @@
 }
 
 .container {
-    width: 900px;
-    height: 900px;
+    width: 1000px;
+    height: 1000px;
 }
 
 .link{
@@ -13,9 +13,11 @@
     text-decoration: underline;
 }
 .image {
-    width: 150px;
-    height: 75px;
+    width: 154px;
+    height: 88px;
+    padding: 10px, 10px;
     position: absolute;
+    border: 2px solid purple;
 }
 .text {
     box-sizing: border-box;
@@ -25,16 +27,15 @@
     color: black;
     background-color: white;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 10px;
-    width: 100px;
-    height: 100px;
-    margin-left: 615px;
-    margin-right: 150px;
+    font-size: 1em;
+    width: 300px;
+    height: 300px;
+    margin-left: 525px;
+    margin-right: 400px;
 }
 
 .box {
     border: 5px solid black;
-    /* text-align: center; */
     padding: 10px, 10px;
     width: 200px;
     height: 200px;
@@ -47,7 +48,7 @@
     top: 10px;
     left: 10px;
     margin-left: 465px; 
-    margin-top: 300px;
+    margin-top: 350px;
 }
 
 #topRight {
@@ -55,7 +56,7 @@
     top: 10px;
     right: 10px;
     margin-right: 465px; 
-    margin-top: 300px;
+    margin-top: 350px;
 }
 
 #bottomLeft {
@@ -63,7 +64,7 @@
     bottom: 10px;
     left: 10px;
     margin-left: 465px;
-    margin-bottom: 300px;
+    margin-bottom: 250px;
 }
 
 #bottomRight {
@@ -71,5 +72,5 @@
     bottom: 10px;
     right: 10px;
     margin-right: 465px;
-    margin-bottom: 300px;
+    margin-bottom: 250px;
 }
