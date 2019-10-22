@@ -41,6 +41,7 @@
 
 #topLeft {
     background-color: blue;
+    border: 5px solid brown;
     top: 10px;
     left: 10px;
     margin-left: 10px; 
@@ -49,6 +50,7 @@
 
 #topRight {
     background-color: red;
+    border: 5px solid purple;
     top: 10px;
     right: 10px;
     margin-right: 10px; 
@@ -57,6 +59,7 @@
 
 #bottomLeft {
     background-color: yellow;
+    border: 5px solid turquoise;
     bottom: 10px;
     left: 10px;
     margin-left: 10px;
@@ -65,6 +68,7 @@
 
 #bottomRight {
     background-color: green;
+    border: 5px solid orange;
     bottom: 10px;
     right: 10px;
     margin-right: 10px;
