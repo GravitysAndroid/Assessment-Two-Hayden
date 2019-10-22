@@ -17,7 +17,7 @@
     height: 88px;
     padding: 10px, 10px;
     position: absolute;
-    border: 2px solid purple;
+    border: 2px solid red;
 }
 .text {
     box-sizing: border-box;
@@ -44,7 +44,7 @@
 }
 
 #topLeft {
-    background-color: blue;
+    background-color: purple;
     top: 10px;
     left: 10px;
     margin-left: 465px; 
@@ -52,7 +52,7 @@
 }
 
 #topRight {
-    background-color: red;
+    background-color: turquoise;
     top: 10px;
     right: 10px;
     margin-right: 465px; 
@@ -60,7 +60,7 @@
 }
 
 #bottomLeft {
-    background-color: yellow;
+    background-color: orange;
     bottom: 10px;
     left: 10px;
     margin-left: 465px;
@@ -68,7 +68,7 @@
 }
 
 #bottomRight {
-    background-color: green;
+    background-color: brown;
     bottom: 10px;
     right: 10px;
     margin-right: 465px;
